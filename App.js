@@ -12,3 +12,4 @@ sellButtons.forEach(button => {
     alert('You sold a stock!');
   });
 });
+
